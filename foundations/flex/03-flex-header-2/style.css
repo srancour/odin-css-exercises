@@ -50,7 +50,7 @@ ul {
   list-style-type: none;
 }
 
-.left {
+.left, .right {
   display: flex;
   justify-content: space-between;
   align-items: center;
@@ -63,11 +63,4 @@ ul {
   gap: 16px;
   margin: 0;
   padding: 0;
-}
-
-.right {
-  display: flex;
-  justify-content: space-between;
-  gap: 16px;
-  align-items: center;
 }
