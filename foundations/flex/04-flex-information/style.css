@@ -21,6 +21,13 @@ img {
   margin: 48px;
 }
 
+.plant {
+  display: flex;
+  flex-flow: column;
+  text-align: center;
+  align-items: center;
+}
+
 /* do not edit this footer */
 .footer {
   position: fixed;
