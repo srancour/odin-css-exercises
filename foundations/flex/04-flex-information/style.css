@@ -17,8 +17,8 @@ img {
 .plants {
   display: flex;
   justify-content: center;
-  gap: 32px;
-  margin: 48px;
+  gap: 52px;
+  margin: 32px;
 }
 
 .plant {
@@ -26,6 +26,7 @@ img {
   flex-flow: column;
   text-align: center;
   align-items: center;
+  max-width: 200px;
 }
 
 /* do not edit this footer */
