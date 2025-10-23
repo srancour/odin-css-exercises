@@ -22,10 +22,7 @@ img {
 }
 
 .plant {
-  display: flex;
-  flex-flow: column;
   text-align: center;
-  align-items: center;
   max-width: 200px;
 }
 
