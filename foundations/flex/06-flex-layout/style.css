@@ -12,6 +12,10 @@ ul {
   display: flex;
 }
 
+a {
+  text-decoration: none;
+}
+
 img {
   width: 600px;
 }
