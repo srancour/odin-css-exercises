@@ -43,6 +43,10 @@ ul {
   padding: 0;
 }
 
+li {
+  margin-bottom: 16px;
+}
+
 .card-group {
   display: flex;
   flex-wrap: wrap;
