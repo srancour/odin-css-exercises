@@ -37,6 +37,10 @@ body {
   padding: 16px;
 }
 
+ul {
+  list-style: none;
+}
+
 .card-group {
   display: flex;
   flex-wrap: wrap;
