@@ -16,6 +16,10 @@ body {
   padding: 16px;
 }
 
+.footer {
+  background-color: #EFEFEF;
+}
+
 .content {
   display: flex;
   flex-direction: column;
