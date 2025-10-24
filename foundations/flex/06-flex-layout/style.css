@@ -7,6 +7,11 @@ body {
   font-family: Roboto, sans-serif;
 }
 
+.content {
+  display: flex;
+  flex-direction: column;
+}
+
 ul {
   list-style: none;
   display: flex;
